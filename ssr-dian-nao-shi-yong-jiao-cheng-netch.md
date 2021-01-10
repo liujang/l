@@ -2,39 +2,39 @@
 
 **我们首先登入机场获取代理工具，如下图所示点击**
 
-![](../.gitbook/assets/1.png)
+![](.gitbook/assets/1.png)
 
-![](../.gitbook/assets/6%20%282%29.png)
+![](.gitbook/assets/6%20%282%29.png)
 
-![](../.gitbook/assets/1%20%283%29.png)
+![](.gitbook/assets/1%20%283%29.png)
 
 **下载好后解压文件，并打开netch.exe如下图**
 
-![](../.gitbook/assets/2%20%281%29.png)
+![](.gitbook/assets/2%20%281%29.png)
 
 然后我们点击“订阅”二字，如下图
 
-![](../.gitbook/assets/3%20%282%29.png)
+![](.gitbook/assets/3%20%282%29.png)
 
 **之后我们进入到添加订阅界面，我们先去机场复制订阅链接，如下图**
 
-![](../.gitbook/assets/4%20%281%29.png)
+![](.gitbook/assets/4%20%281%29.png)
 
-![](../.gitbook/assets/4.png)
+![](.gitbook/assets/4.png)
 
 **之后把机场复制的订阅链接添加进去并保存修改，如下图所示**
 
-![](../.gitbook/assets/5%20%281%29.png)
+![](.gitbook/assets/5%20%281%29.png)
 
 **然后我们点击“订阅”二字，再点击“从订阅链接更新服务器”**
 
-![](../.gitbook/assets/6%20%281%29.png)
+![](.gitbook/assets/6%20%281%29%20%281%29.png)
 
 **之后选择节点，模式调成“\[网页代理\] 绕过局域网和中国大陆”，如下图所示**
 
-![](../.gitbook/assets/7.png)
+![](.gitbook/assets/7.png)
 
-![](../.gitbook/assets/8.png)
+![](.gitbook/assets/8.png)
 
 **最后我们点击启动就能进行科学上网了.**
 

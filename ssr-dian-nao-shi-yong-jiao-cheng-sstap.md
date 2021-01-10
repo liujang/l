@@ -2,29 +2,29 @@
 
 **我们首先去机场获取代理工具，如下图所示**
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](.gitbook/assets/1%20%281%29.png)
 
-![](../.gitbook/assets/6%20%282%29.png)
+![](.gitbook/assets/6%20%282%29.png)
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](.gitbook/assets/1%20%282%29.png)
 
 **下载好后我们解压文件，然后安装sstap。安装完成后打开sstap，再右击电脑右下角的图标,如下图所示**
 
-![](../.gitbook/assets/7%20%282%29.png)
+![](.gitbook/assets/7%20%282%29.png)
 
 **之后我们点击"ssr订阅"，会进入ssr订阅添加界面，如下图所示**
 
-![](../.gitbook/assets/2%20%282%29.png)
+![](.gitbook/assets/2%20%282%29.png)
 
-![](../.gitbook/assets/3%20%281%29.png)
+![](.gitbook/assets/3%20%281%29.png)
 
 **我们添加完节点后，关掉sstap重新打开，sstap会自己更新订阅，之后我们选择节点**
 
-![](../.gitbook/assets/4%20%282%29.png)
+![](.gitbook/assets/4%20%282%29.png)
 
 **之后我们选择代理模式为”不代理中国ip“，如下图**
 
-![](../.gitbook/assets/5.png)
+![](.gitbook/assets/5.png)
 
 **最后我们点击连接就可以科学上网了**
 
