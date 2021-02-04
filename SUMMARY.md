@@ -23,3 +23,7 @@
 
 * [foc对接脚本](foc-ji-chang-hou-duan-jiao-ben/foc-dui-jie-jiao-ben.md)
 
+## FOC机场其他教程
+
+* [邀请链接获得返利教程](foc-ji-chang-qi-ta-jiao-cheng/yao-qing-lian-jie-huo-de-fan-li-jiao-cheng.md)
+
